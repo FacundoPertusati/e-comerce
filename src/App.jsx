@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from './componets/NavBar/Navbar';
 import ItemListContainer from "./componets/ItemList/ItemListContainer"
+import Itemcount from './componets/Itemcount/Itemcount';
 
 function App() {
 
@@ -13,6 +14,9 @@ function App() {
        Nosotros ={Nosotros}  />
        <ItemListContainer
         Greting = "hola Dennisss , ¿como anda usted?" />
+        <Itemcount  inicial={1}
+        
+        max={7}/>
 
  </div>
   );
