@@ -1,14 +1,14 @@
 import React from "react";
 import ItemList from "./ItemList";
+import ListCatalogo from "../ListCatalogo/ListCatalogo";
 
 const ItemListContainer = (props) => {
-  
-  return <div>
-  
-  <ItemList/>
+  return (
+    <div className="fg">
+      <ListCatalogo />
 
-  
-
-  </div>;
+      <ItemList />
+    </div>
+  );
 };
 export default ItemListContainer;

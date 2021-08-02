@@ -12,10 +12,10 @@ const Itemcount =(props)=>{
         setcount(count - 1)
     }
     return( 
-    <div>
-    <button onClick = {sumar} >+</button>
-    <span>{count}</span>
-    <button onClick = {restar} >-</button>
+    <div className="contador">
+    <button onClick = {restar} className="contadorBtn"> - </button>
+    <span className ="cantidad">{count}</span>
+    <button onClick = {sumar} className="contadorBtn" >+</button>
     </div>
     )
 }

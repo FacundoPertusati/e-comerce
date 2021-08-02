@@ -1,0 +1,86 @@
+{"gabinete" :
+    [
+        {
+            "id": 1,
+            "title": "Gabinete Kolink Void ARGB ATX Vidrio Templado",
+            "img": " ",
+            "category": "2",
+            "price": "$6,540.00",
+           " stock": "7"
+        },
+        {
+            "id": 2,
+            "title": "Gabinete Kolink Phalanx V2 4xCoolers dRGB 120mm",
+            "img": " ",
+            "category": "2",
+            "price": "$ $ 10.500",
+           " stock": "7"
+        },
+        {
+            "id": 3,
+            "title": "Gabinete Be Quiet! PURE BASE 500DX White",
+            "img": " ",
+            "category": "2",
+            "price": "$ 11.940",
+           " stock": "7"
+        },
+        {
+            "id": 4,
+            "title": "Gabinete Aerocool Bolt Black RGB Ventana Acrilica ATX",
+            "img": " ",
+            "category": "2",
+            "price": "$ 4.650",
+           " stock": "7"
+        },
+        {
+            "id": 5,
+            "title": "Gabinete Cougar Blazer Aluminum Vidrio Templado",
+            "img": " ",
+            "category": "2",
+            "price": "$ 24.330",
+           " stock": "7"
+        },
+        {
+            "id": 6,
+            "title": "Gabinete Cougar Gemini T RGB",
+            "img": " ",
+            "category": "2",
+            "price": "$ 18.270",
+           " stock": "7"
+        },
+        {
+            "id": 7,
+            "title": "Gabinete Corsair iCUE 4000X TG ATX White",
+            "img": " ",
+            "category": "2",
+            "price": "$ 17.470",
+           " stock": "7"
+        },
+        {
+            "id": 8,
+            "title": "Gabinete Corsair 280X RGB TG White MATX",
+            "img": " ",
+            "category": "2",
+            "price": "$ 23.300",
+           " stock": "7"
+        },
+        {
+            "id": 9,
+            "title": "Gabinete Cougar GEMINI X",
+            "img": " ",
+            "category": "2",
+            "price": "$ 63.270",
+           " stock": "7"
+        },
+        {
+            "id": 10,
+            "title": "Gabinete Cougar Conquer 2" ,
+            "img": " ",
+            "category": "2",
+            "price": "$ 43.410",
+           " stock": "7"
+        }
+    
+    ]
+    }
+    
