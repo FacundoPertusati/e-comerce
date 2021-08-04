@@ -5,7 +5,7 @@
                     "id": 0,
                     "title": "Procesador AMD RYZEN 7 3700X 4.4 GHz AM4 Wraith Prism RGB Led Cooler",
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_14083_Procesador_AMD_RYZEN_7_3700X_4.4_GHz_AM4_Wraith_Prism_RGB_Led_Cooler_4e00eaaf-grn.jpg",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 42.520",
                    " stock": "7"
                 },
@@ -13,7 +13,7 @@
                     "id": 1,
                     "title": "Procesador AMD Ryzen 5 1600 AF Zen+ 12nm AM4 Wraith Stealth Cooler",
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17898_Procesador_AMD_Ryzen_5_1600_AF_Zen__12nm_AM4_Wraith_Stealth_Cooler_187bb9ab-grn.jpg ",
-                    "category": "1",
+                    "category": 1,
                     "price": "$19.000",
                    " stock": "7"
                 },
@@ -21,7 +21,7 @@
                     "id": 2,
                     "title": "Procesador AMD RYZEN 5 3600 4.2GHz Turbo AM4 Wraith Stealth Cooler",
                     "img": " https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_16749_Procesador_AMD_RYZEN_5_3600_4.2GHz_Turbo_AM4_Wraith_Stealth_Cooler_f8ab4915-med.jpg",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 30.500",
                    " stock": "7"
                 },
@@ -29,7 +29,7 @@
                     "id": 3,
                     "title": "Procesador AMD Ryzen 5 3500 4.1GHz Turbo + Wraith Stealth Cooler OEM",
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17712_Procesador_AMD_Ryzen_5_3500_4.1GHz_Turbo___Wraith_Stealth_Cooler_OEM_a86c3cdb-med.jpg ",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 26.900",
                    " stock": "7"
                 },
@@ -37,7 +37,7 @@
                     "id": 4,
                     "title": "Procesador AMD RYZEN 9 3950X 4.7GHz Turbo AM4",
                     "img": " https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19123_Procesador_AMD_RYZEN_9_3950X_4.7GHz_Turbo_AM4_ecf0fd32-med.jpg",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 99.950",
                    " stock": "7"
                 },
@@ -45,7 +45,7 @@
                     "id": 5,
                     "title": "Procesador AMD RYZEN 7 3800XT 4.7GHz Turbo",
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20003_Procesador_AMD_RYZEN_7_3800XT_4.7GHz_Turbo_19451dfa-med.jpg ",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 44.050",
                    " stock": "7"
                 },
@@ -53,7 +53,7 @@
                     "id": 6,
                     "title": "Procesador AMD Ryzen 7 5800X 4.7GHz Turbo AM4 - No incluye Coolernete",
                     "img": " https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_22300_Procesador_AMD_Ryzen_7_5800X_4.7GHz_Turbo_AM4_-_No_incluye_Cooler_05ce1332-med.jpg ",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 52.000",
                    " stock": "7"
                 },
@@ -61,7 +61,7 @@
                     "id": 7,
                     "title": "Procesador AMD Ryzen 9 5950X 4.9GHz Turbo AM4 - No incluye Cooler",
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_22302_Procesador_AMD_Ryzen_9_5950X_4.9GHz_Turbo_AM4_-_No_incluye_Cooler_9d34d3b3-med.jpg ",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 104.120",
                    " stock": "7"
                 },
@@ -69,7 +69,7 @@
                     "id": 8,
                     "title": "Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4 + Wraith Stealth Cooler ",
                     "img": " https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_22254_Procesador_AMD_Ryzen_5_5600X_4.6GHz_Turbo_AM4___Wraith_Stealth_Cooler_f737ec9f-grn.jpg",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 36.000",
                    " stock": "7"
                 },
@@ -77,7 +77,7 @@
                     "id": 9,
                     "title": "Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4 OEM Sin Cooler ",
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26058_Procesador_AMD_Ryzen_5_5600X_4.6GHz_Turbo_AM4_OEM_Sin_Cooler_88ae3458-med.jpg ",
-                    "category": "1",
+                    "category": 1,
                     "price": "$ 34.270",
                    " stock": "7"
                 },
@@ -85,7 +85,7 @@
                     "id": 10,
                     "title": "Mother Asrock A520M-HDV AM4",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$6,540.00",
                    " stock": "7"
                 },
@@ -93,7 +93,7 @@
                     "id": 11,
                     "title": "Mother Asrock A320M-HDV R4.03 Ryzen M-ATX",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$ 7.120",
                    " stock": "7"
                 },
@@ -101,7 +101,7 @@
                     "id": 12,
                     "title": "Mother MSI A320M-A PRO MAX AM4 M.2 PCI-E x4",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$ 7.170",
                    " stock": "7"
                 },
@@ -109,7 +109,7 @@
                     "id": 13,
                     "title": "Mother Gigabyte A520M H AM4",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$ 11.090",
                    " stock": "7"
                 },
@@ -117,7 +117,7 @@
                     "id": 14,
                     "title": "Mother Asrock B450M PRO4 R2.0 AM4",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$ 13.370",
                    " stock": "7"
                 },
@@ -125,7 +125,7 @@
                     "id": 15,
                     "title": "Mother Asrock B450 Steel Legend AM4 RGB Dual M.2 Dual USB 3.1",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$ 15.350",
                    " stock": "7"
                 },
@@ -133,7 +133,7 @@
                     "id": 16,
                     "title": "Mother ASUS TUF B450-PLUS Gaming AM4",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$ 15.470",
                    " stock": "7"
                 },
@@ -141,7 +141,7 @@
                     "id": 17,
                     "title": "Mother MSI MPG B550 GAMING EDGE WIFI AM4",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$ $ 27.780",
                    " stock": "7"
                 },
@@ -149,7 +149,7 @@
                     "id": 18,
                     "title": "Mother GIGABYTE B550 AORUS Master 1.0 sAM4",
                     "img": " ",
-                    "category": "2",
+                    "category": 2,
                     "price": "$ 50.270",
                    " stock": "7"
                 },

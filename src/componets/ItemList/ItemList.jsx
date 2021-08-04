@@ -1,51 +1,43 @@
-import React,{useState,useEffect} from "react" ;
-import Item from "../Item/Item"
-import {procesador} from "../../Json/procesador.json"
-
-
-
-
+import React, { useState, useEffect } from "react";
+import Item from "../Item/Item";
+import { procesador } from "../../Json/procesador.json";
+import { useParams } from "react-router";
 
 const ItemList = () => {
+  const [listItem, setListItem] = useState([]);
 
-    const [listItem,setListItem] = useState([])
+  const ArrayItems = procesador;
 
-
-      useEffect(()=>{
-        
-        getItems()
-
-      }, [])
-
-      const getItems = () =>{
-          const server = new Promise((resolve,rejet)=>{
-            setTimeout(() => {
-                resolve(procesador)
-            },1000);
-          })
-          server.then((rest)=>{
-            setListItem(rest) 
-          })
-      }
-           console.log (listItem)
-    return (
-       <div>
-           {listItem.map((item)=>{
-            
-            return(
-            <Item item={item}/>
-            
-
-            )
-           })}
-       </div>
+  const { idCategoria } = useParams();
 
 
+  useEffect(()=>{
 
-    )
+    setListItem([]) ;
+  
+  const getItems = () => {
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        if (idCategoria) {
+          const ListaFiltrada = ArrayItems.filter(
+            (item) => item.category === idCategoria
+          );
+          resolve(ListaFiltrada);
+        } else {
+          resolve(ArrayItems);
+        }
+      },1000);
+    });
+  };
+  getItems().then((result) => setListItem(result));
 
+  return (
+    <div>
+      {listItem.map((item) => {
+        return <Item item={item} />;
+      })}
+    </div>
+  );
+  })};
 
-}
-
-export default ItemList
-
+export default ItemList;

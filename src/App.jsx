@@ -18,12 +18,16 @@ function App() {
           <Route exact path="/">
             <ItemListContainer />
           </Route>
+          <Route path="/categoria/:idCategoria">
+          <ItemListContainer />
+          </Route>
           <Route path="/Prosec/:id">
             <Prosec />
           </Route>
           <Route path="/Ayuda/">
             <Ayuda />
           </Route>
+          
         </Switch>
       </BrowserRouter>
     </div>
