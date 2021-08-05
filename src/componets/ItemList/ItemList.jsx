@@ -11,9 +11,7 @@ const ItemList = () => {
   const { idCategoria } = useParams();
 
 
-  useEffect(()=>{
 
-    setListItem([]) ;
   
   const getItems = () => {
     return new Promise((resolve) => {
@@ -31,6 +29,11 @@ const ItemList = () => {
   };
   getItems().then((result) => setListItem(result));
 
+  useEffect(() => {
+    setListItem([]);
+    getItems()
+  }, [ArrayItems,idCategoria])
+
   return (
     <div>
       {listItem.map((item) => {
@@ -38,6 +41,6 @@ const ItemList = () => {
       })}
     </div>
   );
-  })};
+  };
 
 export default ItemList;

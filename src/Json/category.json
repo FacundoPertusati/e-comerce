@@ -9,6 +9,31 @@
             "id": 2,
             "title": "Mother "
            
+        },
+        {
+            "id": 3,
+            "title": "Placa de video"
+           
+        },
+        {
+            "id": 4,
+            "title": "Memorias"
+           
+        },
+        { 
+            "id": 5,
+            "title": "Gabinetes"
+           
+        },
+        { 
+            "id": 6,
+            "title": "Fuentes"
+           
+        },
+        { 
+            "id": 7,
+            "title": "Sofwer"
+           
         }
         
     
