@@ -1,21 +1,26 @@
 
-import React ,{useState} from "react";
+import React,{useState} from "react";
 
-const Itemcount =(props)=>{
-    const [count,setcount]= useState(0)
+
+const Itemcount =({inicial,stock})=>{
+
+
+    const [count,setCount]= useState(1)
 
     const sumar =()=>{
-        setcount(count + 1)
+    console.log("entre")
+    setCount(count + 1)
     }
 
     const restar =()=>{
-        setcount(count - 1)
+         setCount(count - 1)
     }
+    console.log(stock)
     return( 
     <div className="contador">
-    <button onClick = {restar} className="contadorBtn"> - </button>
+    <button onClick = {restar} disabled={count===inicial} className="contadorBtn"> - </button>
     <span className ="cantidad">{count}</span>
-    <button onClick = {sumar} className="contadorBtn" >+</button>
+    <button onClick = {sumar} disabled={count===stock} className="contadorBtn" >+</button>
     </div>
     )
 }

@@ -7,7 +7,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_14083_Procesador_AMD_RYZEN_7_3700X_4.4_GHz_AM4_Wraith_Prism_RGB_Led_Cooler_4e00eaaf-grn.jpg",
                     "category":"1",
                     "price": "$ 42.520",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id":1,
@@ -15,7 +15,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17898_Procesador_AMD_Ryzen_5_1600_AF_Zen__12nm_AM4_Wraith_Stealth_Cooler_187bb9ab-grn.jpg ",
                     "category":"1",
                     "price": "$19.000",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 2,
@@ -23,7 +23,7 @@
                     "img": " https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_16749_Procesador_AMD_RYZEN_5_3600_4.2GHz_Turbo_AM4_Wraith_Stealth_Cooler_f8ab4915-med.jpg",
                     "category": "1",
                     "price": "$ 30.500",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 3,
@@ -31,7 +31,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_17712_Procesador_AMD_Ryzen_5_3500_4.1GHz_Turbo___Wraith_Stealth_Cooler_OEM_a86c3cdb-med.jpg ",
                     "category":"1",
                     "price": "$ 26.900",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 4,
@@ -39,7 +39,7 @@
                     "img": " https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_19123_Procesador_AMD_RYZEN_9_3950X_4.7GHz_Turbo_AM4_ecf0fd32-med.jpg",
                     "category": "1",
                     "price": "$ 99.950",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 5,
@@ -47,7 +47,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20003_Procesador_AMD_RYZEN_7_3800XT_4.7GHz_Turbo_19451dfa-med.jpg ",
                     "category": "1",
                     "price": "$ 44.050",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 6,
@@ -55,7 +55,7 @@
                     "img": " https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_22300_Procesador_AMD_Ryzen_7_5800X_4.7GHz_Turbo_AM4_-_No_incluye_Cooler_05ce1332-med.jpg ",
                     "category": "1",
                     "price": "$ 52.000",
-                   " stock": "7"
+                   "stock": 8
                 },
             
                 {
@@ -64,7 +64,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_18305_Mother_Gigabyte_GA-A320M-H_AM4_192d7d38-med.jpg",
                     "category": "2",
                     "price": "$ 6.400",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 8,
@@ -72,7 +72,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24392_Mother_Asrock_A520M-HDV_AM4_5c7ae4d7-med.jpg",
                     "category": "2",
                     "price": "$6,540.00",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 9,
@@ -80,7 +80,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_25761_Mother_Asrock_X370M-HDV_AM4_711e4588-med.jpg ",
                     "category": "2",
                     "price": "$6,900.00",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 10,
@@ -88,7 +88,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_13653_Mother_ASUS_PRIME_H310M-R_R2.0_1151_OEM_770f9b92-med.jpg",
                     "category": "2",
                     "price": "$6,500.00",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 11,
@@ -96,7 +96,7 @@
                     "img": " https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21417_Mother_Gigabyte_H310M-DS2_SERIE_PARALELO_S1151_2bf144ca-med.jpg",
                     "category": "2",
                     "price": "$7,240.00",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 12,
@@ -104,7 +104,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_16052_Mother_Gigabyte_B365M_DS3H_1151_9th_Gen_2112eb8a-med.jpg",
                     "category": "2",
                     "price": "$8,970.00",
-                   " stock": "7"
+                   "stock": 8
                 },
 
 
@@ -115,7 +115,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_22241_Placa_de_Video_Zotac_GeForce_RTX_3070_8GB_GDDR6_Twin_Edge_OC_cb8b31f6-med.jpg",
                     "category": "3",
                     "price": "$ 218.000",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 14,
@@ -123,7 +123,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_6162_Placa_de_Video_GeForce_MSI_GT_710_1GB_LP_Disipador_63b7e348-med.jpg",
                     "category": "3",
                     "price": "$ 8.940 ",
-                   " stock": "7"
+                   "stock": 8
                 },
             
                 {
@@ -132,7 +132,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_11303_Placa_de_Video_Afox_GeForce_GT_1030_2GB_GDDR5_6455562c-med.jpg",
                     "category": "3",
                     "price": "$ 17.500 ",
-                   " stock": "7"
+                   "stock": 8
                 },
             
                 {
@@ -141,7 +141,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21877_Placa_de_Video_Asrock_RX_570_8GB_OC_Phantom_Gaming_D__c340f46f-med.jpg",
                     "category": "3",
                     "price": "$ 95.000",
-                   " stock": "7"
+                   "stock": 8
                 },
             
                 {
@@ -150,7 +150,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_24174_Placa_de_Video_Sapphire_Radeon_RX_6800_XT_16GB_GDDR6_NITRO__a1a9bc75-med.jpg",
                     "category": "3",
                     "price": "$ 230.000",
-                   " stock": "7"
+                   "stock": 8
                 }
             ,
                 {
@@ -159,7 +159,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26298_Placa_de_Video_Gigabyte_Radeon_RX_6700_XT_Gaming_OC_12GB_GDDR6_e5bd39d1-med.jpg",
                     "category": "3",
                     "price": "$ 179.120",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 19,
@@ -167,7 +167,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_25074_Memoria_Team_DDR3_4GB_1600MHz_Team_Elite_Plus_Red_e3f13781-med.jpg",
                     "category": "4",
                     "price": "$ 2.532",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 20,
@@ -175,7 +175,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_22032_Memoria_OLOy_DDR4_8GB_Owl_Black_3000MHz_CL_16_8f1ca0b9-med.jpg",
                     "category": "4",
                     "price": "$ 5.214",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 21,
@@ -183,7 +183,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_25985_Memoria_GeiL_DDR4_8GB_3200MHz_EVO_X_II_RGB_2a5d75c9-med.jpg",
                     "category": "4",
                     "price": "$ 5.880",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 22,
@@ -191,7 +191,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_22036_Memoria_OLOy_DDR4_8GB_Warhawk_Black_RGB_3000MHz_CL16_34caa63c-med.jpg",
                     "category": "4",
                     "price": "$ 6.539",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 23,
@@ -199,7 +199,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26920_Memoria_Team_DDR4_16GB_2666MHz_T-Create_SODIMM_Notebook_1347cc77-med.jpg",
                     "category": "4",
                     "price": "$ 11.800",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 24,
@@ -207,7 +207,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26940_Memoria_Team_DDR4_16GB__2x8GB__2666MHz_T-Force_Zeus_SODIMM_Notebook_7d6b878b-med.jpg",
                     "category": "4",
                     "price": "$ 12.840",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 25,
@@ -215,7 +215,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_26523_Memoria_Kingston_DDR4_8GB_2666MHz_Sodimm_Tipo_Notebook_81de4341-med.jpg",
                     "category": "4",
                     "price": "$ 7.910",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 26,
@@ -223,7 +223,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20250_Gabinete_Kolink_Void_ARGB_ATX_Vidrio_Templado_f962dc11-med.jpg",
                     "category": "5",
                     "price": "$ 6.450",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 27,
@@ -231,7 +231,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_23083_Gabinete_Be_Quiet__PURE_BASE_500DX_White_b33adc73-med.jpg",
                     "category": "5",
                     "price": "$ 11.940",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 28,
@@ -239,7 +239,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_6711_Gabinete_Gamemax_H601_WB__Blanco_con_Negro_ATX__fd3f4bcb-med.jpg",
                     "category": "5",
                     "price": "$ 4.756",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 29,
@@ -247,7 +247,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_18521_Gabinete_Corsair_Crystal_680X_RGB_TG_Smart_White_91c31650-med.jpg",
                     "category": "5",
                     "price": "$ 40.181",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 30,
@@ -255,7 +255,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_20265_Gabinete_Kolink_Bastion_RGB_White_Vidrio_Templado_ATX_1x120mm_RGB_59828e62-med.jpg",
                     "category": "5",
                     "price": "$ 7.850",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 31,
@@ -263,7 +263,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21957_Gabinete_Kolink_Observatory_Black_4x120mm_Coolers_ARGB_Vidrio_Templado_f31f37fb-med.jpg",
                     "category": "5",
                     "price": "$ 10.500",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 32,
@@ -271,7 +271,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_22432_Fuente_ASUS_ROG_STRIX_750G_80_Plus_Gold_750W_Full_Modular_38c61d29-med.jpg",
                     "category": "6",
                     "price": "$ 30.660",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 33,
@@ -279,7 +279,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_23295_Fuente_ASUS_ROG_THOR_850P_80_Plus_Platinum_850W_Full_modular_Black_Box_4de04ae6-med.jpg",
                     "category": "6",
                     "price": "$ 44.100",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 34,
@@ -287,7 +287,7 @@
                     "img": "",
                     "category": "5",
                     "price": "",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 35,
@@ -295,7 +295,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_15525_Fuente_Thermaltake_Smart_BX1_750W_RGB_80_Plus_Bronze_d527ed93-med.jpg",
                     "category": "6",
                     "price": "$ 14.890",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 36,
@@ -303,7 +303,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_25345_Fuente_Corsair_HX1000_1000W_80_Plus_Platinum_Full_Modular_No_incluye_cable_de_alimentacionn_cfda1532-med.jpg",
                     "category": "6",
                     "price": "$ 56.500",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 37,
@@ -311,7 +311,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27261_Fuente_Corsair_RM750X_White_80_Plus_Gold_Full_Modular_No_incluye_cable_de_poder_cadac6b6-med.jpg",
                     "category": "6",
                     "price": "$ 23.250",
-                   " stock": "7"
+                   "stock": "7"
                 },
                 {
                     "id": 38,
@@ -319,7 +319,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27379_Microsoft_Windows_10_Home_64bits_OEM_DVD__c910d720-med.jpg",
                     "category": "7",
                     "price": "$ 15.070",
-                   " stock": "7"
+                   "stock": 8
                 },
                 {
                     "id": 39,
@@ -327,7 +327,7 @@
                     "img": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_1478_Microsoft_Windows_10_Home_64bits_OEM_DVD_9b8e1834-med.jpg",
                     "category": "7",
                     "price": "$ 16.250",
-                   " stock": "7"
+                   "stock": 8
                 }
 
             
