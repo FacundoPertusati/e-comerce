@@ -1,0 +1,25 @@
+.descrip{
+    background-color: rgb(204, 203, 206);
+    padding-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.detailDiv{
+    margin-top: 10rem;
+}
+.Detail_2{
+    font-size: 20px;
+    padding: 3rem;
+    background-color: #735073;
+    color: white;
+    border-radius: 40px;
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+.buton_hide {
+    color: white;
+    background-color: violet;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}

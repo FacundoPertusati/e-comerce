@@ -1,0 +1,16 @@
+.home{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.da{
+
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: gainsboro;
+    padding-left: 4rem;
+
+}

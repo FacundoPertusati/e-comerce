@@ -1,0 +1,16 @@
+.Cuestion{
+    color: #753875;
+    margin-left: 1rem;
+  }
+  
+  .Respuesta{
+    margin: 2rem 3rem 2rem 3rem;
+    font-size: 20px;
+    color: black;
+  }
+  
+  .TitleCuestion{
+    font-size: 3rem;
+    margin-left: 3rem;
+    text-decoration: underline;
+  }
