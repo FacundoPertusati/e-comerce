@@ -1,4 +1,4 @@
-# Bienvenidos a la E-commerce de Horacio
+# Bienvenidos a la E-commerce de Facundo Pertusati
 
 ## Generic E-commerce:
 
@@ -13,9 +13,7 @@ En este proyecto se puede buscar por categorias, ver las descripciones de los pr
 <a href="https://keen-kirch-3f7ba1.netlify.app/"> Live Site </a>
 
 ## Vista previa:
-<img src="https://i.im.ge/2021/07/27/DfeQr.gif" alt="gif de agregado de items al carrito">
-<br>
-<img src="https://i.im.ge/2021/07/27/DkTnT.gif" alt="gif de formulario y compra">
+<img src="https://media3.giphy.com/media/lfnxUtzXglJH00SDKz/giphy.gif" alt="gif de agregado de items al carrito">
 
 ## Tecnologias:
 

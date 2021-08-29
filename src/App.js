@@ -20,7 +20,6 @@ import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailCont
 import Footer from './components/Footer/Footer';
 import ProductCategoryContainer from './components/ProductCategoryContainer/ProductCategoryContainer'
 import Ayuda from './components/Ayuda/Ayuda';
-
 // checkout
 import Form from './components/Form/Form';
 
@@ -34,6 +33,7 @@ function App() {
         <Switch>
           <Route path="/" exact>
 							<Home />
+       
               
 				  </Route>
           <Route path="/Categories" > {/* Primero declaramos todas las rutas sencillas*/}
