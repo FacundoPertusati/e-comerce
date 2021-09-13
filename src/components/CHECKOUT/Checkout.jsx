@@ -70,7 +70,9 @@ function Checkout() {
       <br />
       <button disabled={disabled} onClick={() => ticket(patata)}>Obtener mi ticket de compra</button>
 
-
+    {totalPrice === 0 ?
+    <p>no hay articulo</p>:
+    null}
       <h4>tu ticket es  {tick}</h4>
       <br />
       <br />

@@ -7,8 +7,10 @@ export default function Item({ param }) {
         <div className='item_Card_container'>
             <div className="item_title">
                 <h2>{param.title}</h2>
+               
                 <div className="item_img">
                     <img src={`${param.img}`} alt="" />
+                    <p className="Price">${param.price}</p>
                 </div>
             </div>
             <Link to={`/item/${param.id}`} >

@@ -4,7 +4,9 @@ import './Navbar.css';
 import { Link } from 'react-router-dom';
 // Import context
 import { CartContext } from '../../Context/Context';
-import { MdShoppingCart } from "react-icons/md";
+
+import CartWidget from '../CartWidget/CartWidget';
+import { Card } from 'semantic-ui-react';
 
 
 export default function Navbar() {
@@ -24,10 +26,7 @@ export default function Navbar() {
 
 
 
-        <Link to = {"/ShoppingCart/"}>
-        <MdShoppingCart className="cart" />
-        <i className="Quenty">{cart.length}</i>
-        </Link>
+      <CartWidget numer={cart.length}/>
         
         </div>
        
@@ -35,7 +34,7 @@ export default function Navbar() {
         <div>
         <ul className="lista">
         <Link to={"/"}><li className="items">Productos</li></Link>
-            <Link to={"/CheckOut/"}><li className="items">Checkout</li> </Link>
+         
             <Link to={"/Ayuda/"}> <li className="items" > Ayuda</li></Link>
             
         </ul>

@@ -34,8 +34,11 @@ function CartShop() {
 
 
     return (
+
         <div className='CartShop_container'>
+            	
             <h1>Hola CartShop</h1>
+          
             {cart.map((item, index) =>
                 <div key={index} className='CartShop_Card'>
                     <div className="CartShop_head">
@@ -50,16 +53,30 @@ function CartShop() {
                  
                     
                     <div className="CS_buttons">
+                 
+
 
                         <button onClick={()=> add(item)}>sumar</button>
                         <button onClick={() => onRemove(item)}>{item.quantity > 1 ? 'restar': 'borrar' }</button>
                     </div>
                 </div>
             )}
+              {cart.length===0 ? 
+            <div> 
+                <p>no hay Productos</p>
+                <Link to={"/"}>
+                <button className='CS_clear'>ir al catalogo</button>
+            </Link>
+            </div>: 
+            <div>
             <button className='CS_clear' onClick={()=>{setCart([])}}>Vaciar carrito</button>
             <Link to={"/CheckOut/"}>
                 <button className='CS_clear'>Ir a comprar</button>
             </Link>
+            </div>}
+
+
+
         </div>
     )
 }

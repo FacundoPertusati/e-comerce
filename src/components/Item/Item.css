@@ -39,3 +39,7 @@
     color: rgb(255, 255, 255);
     /* justify-self: flex-end; */
 }
+.Price{
+  color: white;
+  font-size: 1.2rem;
+}
